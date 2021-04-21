@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Slider from './components/NetflixSlider'
 import './App.scss'
-{/* a big thanks to andrzejewsky for the original slider code refactored for this carousel */}
+
 const movies = [
   {
     id: 1,
